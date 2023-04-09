@@ -9,3 +9,7 @@ https://github.com/openai/whisper
 
 Wav2Vec2:
 https://huggingface.co/docs/transformers/model_doc/wav2vec2
+
+## Implementation
+
+The pre trained models are curled to return the output transcript for given audio that is being passed as input, implemneted vis Flask API.
